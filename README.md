@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, my name is Jonas.
+
+I'm currently working on IT support.<br/>
+I'm currently learning Java SE to get my OCP Java SE Certification.<br/>
+
+You can find me at LinkedIn: https://br.linkedin.com/in/jonasflp
 
 <!--
 **jonas4040/jonas4040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
