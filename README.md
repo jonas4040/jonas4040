@@ -1,7 +1,6 @@
 ### Hello, my name is Jonas.
 
-I'm currently working on IT support.<br/>
-I'm currently learning Java SE to get my OCP Java SE Certification.<br/>
+I'm currently working on IT support, learning Java SE and Relational Databases in SQL.
 
 You can find me at LinkedIn: https://br.linkedin.com/in/jonasflp
 
