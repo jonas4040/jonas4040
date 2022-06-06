@@ -1,6 +1,6 @@
 ### Hello, my name is Jonas.
 
-I'm currently working on IT support, learning Java SE and Relational Databases in SQL.
+I'm currently working on IT support, learning Java SE, Servlets, JSP, Relational Databases in SQL and so on.
 
 You can find me at LinkedIn: https://br.linkedin.com/in/jonasflp
 
