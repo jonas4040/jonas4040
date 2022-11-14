@@ -2,6 +2,12 @@
 
 I'm currently working on IT support, learning Java SE, Servlets, JSP, Relational Databases in SQL and so on.
 
+### 🚀 Progress:
+
+[![jonas4040](https://github-readme-stats.vercel.app/api?username=jonas4040&show_icons=true&theme=default)](https://github.com/jonas4040/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas4040&layout=compact)](https://github.com/jonas4040/)
+
 You can find me at LinkedIn: https://br.linkedin.com/in/jonasflp
 
 <!--
