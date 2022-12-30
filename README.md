@@ -1,6 +1,6 @@
 ### Hello, my name is Jonas.
 
-I'm currently working on IT support, learning Java SE, Servlets, JSP, Relational Databases in SQL and so on.
+I'm currently working on a Developers Java Team in an Enterprise, learning Java EE, Servlets, JSP; at the same time, Spring Framework, Angular, Javascript, how to model Relational Databases in SQL and so on.
 
 ### 🚀 Progress:
 
