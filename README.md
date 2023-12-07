@@ -1,7 +1,7 @@
 ### Hello, my name is Jonas.
 
-I'm currently working on a Developers Java Team in an Enterprise and studying at the same time Embedded Systems and C language, micropython, etc. for microcontrollers such as ESP32S3 and ATMEGA238P.
-As well I'm learning Java EE, Servlets, JSP, Spring Framework, Angular, Javascript, how to model Relational Databases in SQL and so on.
+I'm currently studying Electronics, Hardware Design and at the same time Embedded Systems and C language, micropython, etc. for microcontrollers such as, STM32 family, ESP32 and PIC16.
+As well I've been learning Java EE, Servlets, JSP, Spring Framework, Angular, Javascript, how to model Relational Databases in SQL and so on, for integrating Embedded applications to my portfolio.
 
 ### 🚀 Progress:
 
